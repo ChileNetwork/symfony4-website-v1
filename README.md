@@ -5,6 +5,6 @@ Este projecto esta en modo desarrollo y comienza desde una version minima para c
 
 # Paradigma
 
-[..]
+[...]
 
 
